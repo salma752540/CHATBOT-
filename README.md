@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Implémentation d'un Chatbot Basé sur LangChain
 
 
